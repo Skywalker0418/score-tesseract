@@ -2,7 +2,7 @@
 by reyzeal (Rizal Ardhi Rahmadani)\
 
 ## About Project
-This is documentation of my [Freelancer project](https://www.freelancer.co.id/projects/php/Image-text-OCR-using-tesseract-26533030/details). The goal of this project is to extract all information on the scoreboard from Switchblade games using Tesseract OCR as the core technology.
+This is project documentation. The goal of this project is to extract all information on the scoreboard from Switchblade games using Tesseract OCR as the core technology.
 
 ## About Switchblade
 Switchblade is an arena-based 5v5 vehicle action game that combines high-octane combat with an ever shifting selection of strategic choices.
